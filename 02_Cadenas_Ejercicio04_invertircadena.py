@@ -1,0 +1,1 @@
+print(input("Dime ua palabra mágica")[::-1])
